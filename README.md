@@ -1,6 +1,6 @@
 # Knooking Guides and Tutorials
 
-- [Knitting primer](knittingprimer/)
+- [Knitting primer](pages/knittingprimer/)
 - Western knooking
 - Eastern knooking
 - Changing from Western to Eastern and vice versa
