@@ -4,7 +4,11 @@
 - Western knooking
 - Eastern knooking
 - Changing from Western to Eastern and vice versa
-- Increase and decrease
 - Slips
-- Cables
 - Edges
+- Cables
+- Increase and decrease
+- Short rows
+    - German
+    - Wrap and turn
+    - Shadow
