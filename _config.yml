@@ -5,5 +5,5 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
 
-site-css:
-  - "/assets/css/style.scss"
+#site-css:
+#  - "/assets/css/style.scss"
