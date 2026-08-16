@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 body {
-    font-family: monospace !important;
-    background-color: aliceblue !important;
-    color: hotpink;
+    font-family: monospace;
+    background-color: aliceblue;
 }
+
+a:any-link {
+    color: hotpink;
+{
