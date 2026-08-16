@@ -1,5 +1,5 @@
 ---
-title: Knitting Primer | Knooking Mimi
+title: Knitting Primer \| Knooking Mimi
 ---
 
 # Knitting Primer
