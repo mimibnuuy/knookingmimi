@@ -1,0 +1,21 @@
+# Knooking Guides and Tutorials
+
+- [Knitting primer](pages/knittingprimer/)
+- Western knooking
+- Eastern knooking
+- Changing from Western to Eastern and vice versa
+- Cast ons
+    - Starting chain
+    - Simple cast on
+    - Long tail/German twist cast on
+    - Knitted cast on
+    - Judy's magic cast on
+- Bind offs
+- Slips
+- Edges
+- Cables
+- Increase and decrease
+- Short rows
+    - German
+    - Wrap and turn
+    - Shadow
