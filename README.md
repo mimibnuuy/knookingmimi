@@ -5,11 +5,17 @@ Guides of topics on knooking.
 ## Notes
 
 ### Slip Stitches
-eastern slip stitch knitwise
-western slip stitch purlwise
-to keep mount orientation
+- eastern slip stitch knitwise
+- western slip stitch purlwise
+
+> to keep mount orientation
+
+Changing from Western to Eastern and vice versa
 
 ### Cast ons
-long tail cast on extra stitch and slip it into hook before knitting second stitch
-knitted cast on on knook
-crochet cast on
+- long tail cast on extra stitch and slip it into hook before knitting second stitch
+- knitted cast on on knook
+- crochet cast on
+
+### Misc.
+- misc.
