@@ -10,6 +10,7 @@
     - Long tail/German twist cast on
     - Knitted cast on
     - Judy's magic cast on
+    - German twisted
 - Bind offs
 - Slips
 - Edges
@@ -19,3 +20,4 @@
     - German
     - Wrap and turn
     - Shadow
+    - Japanese
