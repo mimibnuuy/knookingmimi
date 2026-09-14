@@ -3,15 +3,54 @@
 
 @import "{{ site.theme }}";
 
+root {
+    --marker-color: hotpink;
+    --header-color: hotpink;
+    --link-color: cornflowerblue;
+    --background-color: aliceblue;
+}
+
 body {
     font-family: monospace;
-    background-color: aliceblue;
+    background-color: var(--background-color);
 }
 
 a:any-link {
-    color: cornflowerblue;;
+    color: var(--link-color);
 }
 
 li::marker {
-    color: hotpink
+    color: var(--marker-color);
+}
+
+summary {
+	 font-size: 1em;
+	 font-weight: bold;
+}
+
+details>div {
+	margin-left: 24px;
+}
+
+details:has(+details) {
+	margin-bottom: 1.2em;
+}
+
+h1, h2, h3, h4, summary {
+	color: var(--header-color);
+}
+
+summary, h3, h4 {
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: var(--header-color);
+	text-decoration-thickness: 2px;
+}
+
+details:open::details-content {
+	border-width: 1px;
+	border-style: dashed;
+	border-color: var(--header-color);
+	padding-right: 13px;
+	margin-top: 20px;
 }
