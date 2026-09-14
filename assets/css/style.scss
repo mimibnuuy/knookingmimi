@@ -5,6 +5,7 @@
 
 root {
     --marker-color: hotpink;
+	--text-color: hotpink;
     --header-color: hotpink;
     --link-color: cornflowerblue;
     --background-color: aliceblue;
@@ -13,6 +14,7 @@ root {
 body {
     font-family: monospace;
     background-color: var(--background-color);
+	color: var(--text-color);
 }
 
 a:any-link {
