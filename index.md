@@ -13,7 +13,7 @@ layout: index
     - Simple
     - Long tail
     - German twisted
-    - Judy's magic cast on
+    - Judy's magic cast on  
 - Bind offs
 - Slips
 - Edges
