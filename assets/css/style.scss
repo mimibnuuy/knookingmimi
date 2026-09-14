@@ -21,6 +21,10 @@ a:any-link {
     color: var(--link-color);
 }
 
+li {
+	padding-bottom: 0.5em;
+}
+
 li::marker {
     color: var(--marker-color);
 }
