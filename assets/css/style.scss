@@ -35,7 +35,6 @@ details {
 }
 
 details>div {
-	margin-left: 0.5em;
 	padding: 0.5em;
 }
 
@@ -60,4 +59,5 @@ details:open::details-content {
 	border-color: var(--header-color);
 	padding-right: 13px;
 	margin-top: 20px;
+	margin-left: 0.5em;
 }
