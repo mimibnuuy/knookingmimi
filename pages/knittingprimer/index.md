@@ -8,7 +8,3 @@ Here be the primer (index page test).
     Test.
   </div>
 </details>
-
-
-
-[Back](../../)
