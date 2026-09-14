@@ -21,8 +21,12 @@ a:any-link {
     color: var(--link-color);
 }
 
-li {
+li, li>ul, li>ul>li {
 	padding-bottom: 0.5em;
+}
+
+ul {
+	
 }
 
 li::marker {
