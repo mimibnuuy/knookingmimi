@@ -16,6 +16,7 @@ Changing from Western to Eastern and vice versa
 - long tail cast on extra stitch and slip it into hook before knitting second stitch
 - knitted cast on on knook
 - crochet cast on
+- Judy's magic cast on
 
 ### Misc.
 - misc.
