@@ -25,6 +25,10 @@ li {
 	padding-bottom: 0.5em;
 }
 
+li:has(ul) {
+	padding-bottom: 0.5em;
+}
+
 li>ul {
 	padding-top: 0;
 }
