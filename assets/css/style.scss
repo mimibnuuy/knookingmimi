@@ -30,7 +30,7 @@ li>ul {
 }
 
 li:has(ul) {
-	padding-bottom: 0.5em;
+	padding-bottom: 0;
 }
 
 ul, ol {
@@ -41,6 +41,7 @@ ul, ol {
 ul ul, ol ol, ul ol, ol ul {
   margin-top: 0;
   margin-bottom: 0;
+  padding-top: 0.5em;
 }
 
 li::marker {
