@@ -25,7 +25,6 @@ a:any-link {
 
 li {
 	padding-bottom: var(--list-padding);
-	padding-left: 0.4em;
 }
 
 li:has(ul) {
@@ -34,6 +33,11 @@ li:has(ul) {
 
 li>ul:first-child {
 	padding-top: var(--list-padding);
+}
+
+li>ul>* {
+	padding-left: 0.4em;
+	list-style-type: "\25B8";
 }
 
 /*li>ul:last-child {
@@ -53,7 +57,6 @@ ul ul, ol ol, ul ol, ol ul {
 	padding-bottom: 0;
 	margin-left: var(--nested-list-margin);
 	padding-left: 0;
-	list-style-type: "\25B8";
 }
 
 li::marker {
