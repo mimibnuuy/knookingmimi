@@ -10,6 +10,7 @@
     --link-color: cornflowerblue;
     --background-color: aliceblue;
 	--list-padding: 0.5em;
+	--nested-list-margin: 0.9em;
 }
 
 body {
@@ -49,7 +50,7 @@ ul ul, ol ol, ul ol, ol ul {
 	margin-bottom: 0;
 	padding-top: 0;
 	padding-bottom: 0;
-	margin-left: 0.2em;
+	margin-left: var(--nested-list-margin);
 	padding-left: 0;
 }
 
