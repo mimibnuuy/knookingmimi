@@ -26,19 +26,13 @@ li {
 	padding-bottom: var(--list-padding);
 }
 
-li:has(ul) {
+/*li:has(ul) {
 	padding-bottom: 0;
 }
 
 li:has(ul) + li {
 	padding-top: 0;
 	margin-top: 0;
-}
-
-/*li>ul {
-	padding-top: 0;
-	padding-bottom: 0;
-	margin-bottom: 0;
 }*/
 
 li>ul:first-child {
