@@ -9,6 +9,7 @@
     --header-color: hotpink;
     --link-color: cornflowerblue;
     --background-color: aliceblue;
+	--list-padding: 0.5em;
 }
 
 body {
@@ -22,11 +23,11 @@ a:any-link {
 }
 
 li {
-	padding-bottom: 0.5em;
+	padding-bottom: var(--list-padding);
 }
 
 li:has(ul) {
-	padding-bottom: 0.5em;
+	padding-bottom: var(--list-padding);
 }
 
 li>ul {
@@ -34,11 +35,11 @@ li>ul {
 }
 
 /*li>ul:last-child {
-	padding-bottom: 0.5em;
+	padding-bottom: var(--list-padding);
 }*/
 
 li>ul:first-child {
-	padding-top: 0.5em;
+	padding-top: var(--list-padding);
 }
 
 ul, ol {
@@ -50,6 +51,7 @@ ul ul, ol ol, ul ol, ol ul {
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 0;
+  margin-left: 0;
 }
 
 li::marker {
