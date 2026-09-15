@@ -24,6 +24,8 @@ a:any-link {
 
 li {
 	padding-bottom: var(--list-padding);
+	background-color: yellow;
+	border: 1px solid black;
 }
 
 li:has(ul) {
