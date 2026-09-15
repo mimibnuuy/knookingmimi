@@ -5,7 +5,6 @@ layout: index
 # Knooking Guides and Tutorials
 
 - [Knitting primer](pages/knittingprimer/)
-- Western and Eastern knooking
 - Cast ons
     - Starting chain
     - Crochet
@@ -14,11 +13,15 @@ layout: index
     - Long tail
     - German twisted
     - Judy's magic cast on
+- Knit and purl stitches
 - Bind offs
-- Slips
-- Edges
 - Cables
-- Increase and decrease
+- Increases
+  - Lifted
+  - Make
+- Decreases
+  - Right-leaning
+  - Left-leaning
 - Short rows
     - German
     - Wrap and turn
