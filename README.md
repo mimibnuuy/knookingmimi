@@ -17,6 +17,7 @@ Changing from Western to Eastern and vice versa
 - knitted cast on on knook
 - crochet cast on
 - Judy's magic cast on
+- simple (thumb?)
 
 ### Misc.
 - misc.
