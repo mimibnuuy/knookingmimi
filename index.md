@@ -6,10 +6,10 @@ layout: index
 
 - [Knitting primer](pages/knittingprimer/)
 - Cast ons
-    - Starting chain
+    <!-- - Starting chain
     - Crochet
-    - Knitted
-    - Simple
+    - Knitted -->
+    - Starting chain
     - Long tail
     - German twisted
     - Judy's magic cast on
