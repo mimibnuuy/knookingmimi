@@ -6,11 +6,11 @@ layout: index
 
 - [Knitting primer](pages/knittingprimer/)
 - Cast ons
-    <!--
+    <!\-\-
     - Starting chain
     - Crochet
     - Knitted
-    -->
+    \-\->
     - Starting chain
     - Long tail
     - German twisted
