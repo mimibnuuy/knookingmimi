@@ -18,14 +18,14 @@ layout: index
 - Bind offs
 - Cables
 - Increases
-  - Lifted
-  - Make
+    - Lifted
+    - Make
 - Decreases
-  - Right-leaning
-  - Left-leaning
+    - Right-leaning
+    - Left-leaning
 - Short rows
     - German
     - Wrap and turn
     - Shadow
     - Japanese
- - Test
+ - Miscellaneous tips
