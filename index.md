@@ -13,6 +13,7 @@ layout: index
     - Long tail
     - German twisted
     - Judy's magic cast on
+    - Jeny's stretchy cast on
 - Knit and purl stitches
 - Bind offs
 - Cables
