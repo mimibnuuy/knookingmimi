@@ -5,6 +5,7 @@ Guides of topics on knooking.
 ## Notes
 
 ### Slip Stitches
+
 - eastern slip stitch knitwise
 - western slip stitch purlwise
 
@@ -13,6 +14,7 @@ Guides of topics on knooking.
 Changing from Western to Eastern and vice versa
 
 ### Cast ons
+
 - long tail cast on extra stitch and slip it into hook before knitting second stitch
 - knitted cast on on knook
 - crochet cast on
@@ -20,6 +22,9 @@ Changing from Western to Eastern and vice versa
 - simple (thumb?)
 
 ### Misc.
-- misc.
+
+- working in the front loop for knits and back loop for purls
+- Wrapping clockwise and counterclockwise depending on style and mount desired
+- Left-handed in summary boxes
 
 redeploying
